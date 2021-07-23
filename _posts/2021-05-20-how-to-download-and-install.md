@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Download and Install the Dispatch App
+title: How to Install the Dispatch App
 tags: user guide
 categories: first release
 ---
